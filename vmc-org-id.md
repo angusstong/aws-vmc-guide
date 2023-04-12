@@ -1,4 +1,4 @@
-# Prepare VMware Cloud Organization ID 
+# Prepare the VMware Cloud Organization ID 
 1.	Sign in [AWS Console](https://us-east-1.console.aws.amazon.com/console/home) with project or billing account.
 2.	Sign up VMC on AWS by clicking [Get started with VMware Cloud on AWS](https://aws.amazon.com/vmware/).
 
