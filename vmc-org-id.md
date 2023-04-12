@@ -6,20 +6,20 @@
 
 3.	Fill the Sign Up form for VMC on AWS.
 
-<img src="./media/vmc-signup-1.png" width=600>
+<img src="./media/vmc-signup-1.png" width=400>
 
-![Fill the Sign Up form](./media/vmc-signup-2.png)
+<img src="./media/vmc-signup-2.png" width=600>
 
 4.	Receive confirmation email and wait for request review (around 6-12 hours).
 
-![Receive confirmation email](./media/vmc-signup-confirmation.png)
+<img src="././media/vmc-signup-confirmation.png" width=600>
 
 5.	Receive Welcome Email and activate VMware Cloud account.
 
-![Receive Welcome Email](./media/vmc-welcome-email.png)
+<img src="./media/vmc-welcome-email.png" width=600>
 
 6.	Setup a new Organisation (if no existing one) in VMware Cloud Console.
 
-![Setup new Organisation](./media/vmc-new-org.png)
+<img src="./media/vmc-new-org.png" width=600>
 
 7.	Review the Organisation ID in VMware Cloud Console.
