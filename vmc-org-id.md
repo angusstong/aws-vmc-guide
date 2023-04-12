@@ -6,7 +6,7 @@
 
 3.	Fill the Sign Up form for VMC on AWS.
 
-![Fill the Sign Up form](./media/vmc-signup-1.png)
+<img src="./media/vmc-signup-1.png" width=600>
 
 ![Fill the Sign Up form](./media/vmc-signup-2.png)
 
