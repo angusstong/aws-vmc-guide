@@ -20,6 +20,6 @@
 
 6.	Setup a new Organisation (if no existing one) in VMware Cloud Console.
 
-    <img src="./media/vmc-new-org.png" width=600>
+    <img src="./media/vmc-create-org.png" width=600>
 
 7.	Review the Organisation ID in VMware Cloud Console.
