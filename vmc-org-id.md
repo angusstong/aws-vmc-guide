@@ -2,7 +2,7 @@
 1.	Sign in [AWS Console](https://us-east-1.console.aws.amazon.com/console/home) with project or billing account.
 2.	Sign up VMC on AWS by clicking [Get started with VMware Cloud on AWS](https://aws.amazon.com/vmware/).
 
-<img src="./media/vmc-get-started.png" width=600>
+    <img src="./media/vmc-get-started.png" width=600>
 
 3.	Fill the Sign Up form for VMC on AWS.
 
