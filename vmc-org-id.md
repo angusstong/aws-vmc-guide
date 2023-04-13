@@ -18,8 +18,19 @@
 
     <img src="./media/vmc-welcome-email.png" width=600>
 
-6.	Setup a new Organisation (if no existing one) in VMware Cloud Console.
+6.	Sign up a new VMware Cloud Console account with the same email address from AWS account for VMC registration.
 
-    <img src="./media/vmc-create-org.png" width=600>
 
-7.	Review the Organisation ID in VMware Cloud Console.
+7.	Setup a new Organisation (if no existing one) in VMware Cloud Console.
+
+    <img src="./media/vmc-new-org.png" width=600>
+    
+    The payment method should be "Managed by AWS".
+    
+8. Skip "Add VMware as a Seller" session and route to VMware Cloud Console home page.
+
+    <img src="./media/vmc-add-seller.png" width=600>
+
+8.	Review the Organisation ID in VMware Cloud Console.
+
+    <img src="./media/vmc-get-org-id.png" width=600>
