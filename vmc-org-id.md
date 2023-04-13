@@ -20,8 +20,9 @@
 
 6.	Sign up a new VMware Cloud Console account with the same email address from AWS account for VMC registration.
 
+    <img src="./media/vmc-console-login.png" width=600>
 
-7.	Setup a new Organisation (if no existing one) in VMware Cloud Console.
+7.	Setup a new Organisation in VMware Cloud Console.
 
     <img src="./media/vmc-new-org.png" width=600>
     
